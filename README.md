@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  In this Rempo i'm gonna publish some of my personal project. 
+  In this Repo i'm gonna publish some of my personal project. 
 <p>
   I hope u'll enjoy them.
   If u want it u can text to me. 🖋️
