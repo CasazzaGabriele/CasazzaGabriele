@@ -1,6 +1,5 @@
 <h1>👋 Hi Guys, I'm Casazza Gabriele 👋</h1>
 
-<p>WellCome on my new repostitory 📂 </p>
 
 
 <!---
